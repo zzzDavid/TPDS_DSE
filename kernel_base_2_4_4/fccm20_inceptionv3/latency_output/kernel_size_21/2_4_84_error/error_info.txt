@@ -1,0 +1,1 @@
+Can not compile layer: inception_c2_pool, layer type is: pooling
